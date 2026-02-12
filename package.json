@@ -4,7 +4,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "npx tsx watch src/index.ts"
+    "dev": "npx tsx watch src/index.ts",
+    "dev-aws": "AWS_PROFILE=dev-test npx tsx watch src/index.ts"
   },
   "keywords": [],
   "author": "",
