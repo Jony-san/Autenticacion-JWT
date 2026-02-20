@@ -197,3 +197,6 @@ Arquitecturas seguras
 DevOps + AWS
 
 Diseño de sistemas autenticados modernos
+
+## License
+This project is licensed under the MIT License.
